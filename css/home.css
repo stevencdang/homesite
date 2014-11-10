@@ -1,0 +1,63 @@
+.header {
+  background: #FFD930;
+  padding: 0px 0;
+  border-bottom: 3px solid #000;
+}
+
+.header .logo {
+  height: 160px;
+  margin-left: -15px;
+  padding: 0;
+}
+
+.header .header-content {
+  padding: 10px 20px;
+}
+
+.about-me {
+  margin: 20px;
+}
+
+.about-me .profile {
+  position: relative;
+}
+
+.about-me .headshot {
+  width: 100%;
+  max-width: 300px;
+}
+
+
+.about-me .contact-info {
+  position: absolute;
+  left: 45%;
+  margin-left: -25%;
+  width: 60%;
+}
+
+.btn-xlarge {
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+  height: 100px;
+  width: 350px;
+  background: #FFD930;
+  
+}
+.btn-container {
+  position: relative;
+}
+.btn-container .btn-xlarge {
+  margin-top: 50px;
+}
+
+.btn-xlarge img {
+  display: inline-block;
+  margin: 15px 20px 15px -15px;
+  width: 70px;
+  height: 70px;
+}
+
+.btn-xlarge h3 {
+  display: inline-block;
+}
